@@ -14,7 +14,7 @@ git clone https://github.com/cardtokens/demo-cardtokens-golang.git
 
 ### Navigate to folder locally
 ```bash
-cd demo-cardtokens-csharp
+cd demo-cardtokens-golang
 ```
 
 ### Replace the constants in cardtokens.go with your actual values:
