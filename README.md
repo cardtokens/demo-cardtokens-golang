@@ -9,7 +9,7 @@ You can run this code directly using a predefined apikey, merchantid and certifi
 
 ### Clone repo
 ```bash
-git clone https://github.com/cardtokens/demo-cardtokens-csharp.git
+git clone https://github.com/cardtokens/demo-cardtokens-golang.git
 ```
 
 ### Navigate to folder locally
